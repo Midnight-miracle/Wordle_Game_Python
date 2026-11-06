@@ -65,7 +65,3 @@ while True:
         print("Game Over!")
         print(f"Word: {word}")
         break
-
-# Problems/Improvement needed:
-#3. need a menu for play again and exit
-#4. levels creation and same word not repeating in other level(future case)
